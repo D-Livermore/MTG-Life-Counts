@@ -1,0 +1,53 @@
+App Name: MTG Life Counts
+
+App Description:
+MTG Life Tracker Companion is an Android app designed to assist Magic: The Gathering (MTG) players in tracking life totals, various types of damage, and counters during gameplay. It provides a user-friendly interface for quickly recording game states and managing game-related information.
+
+Features:
+
+Life Tracker:
+
+Interface for tracking life totals for each player in a game.
+Simple buttons for increasing or decreasing life totals by increments of 1
+Visual indicators for each player's current life total.
+
+Damage Tracker:
+
+Option to track different types of damage (e.g., regular damage, poison counters, commander damage).
+Visual representation of damage types and counters.
+
+Game History:
+
+Log or history feature to record changes in life totals, damage, and counters throughout the game.
+Timestamps for each entry to track the progression of the game.
+Customization Options:
+
+Settings menu to customize the interface and gameplay preferences (e.g., color themes, starting life totals, default counter types).
+Option to adjust interface elements for accessibility (e.g., font size, button size).
+
+Multiplayer Support:
+
+Support for multiplayer games, including tracking life totals and game states for 1-4 simultaneous players.
+Easy switching between different player views to manage individual life totals and game elements.
+
+Local Storage:
+
+Local storage of game data for offline access and continued gameplay.
+Automatic saving of game state to prevent data loss in case of interruptions or device shutdowns.
+
+Wireframes:
+
+Main Screen:
+
+Interface displaying life totals for each player, damage counters, and other game-related information.
+Buttons for adjusting life totals, adding/removing damage, and managing counters.
+Counter Tracker Screen:
+
+Section for tracking different types of counters, with options for adding or removing counters from specific game elements.
+Game History Screen:
+
+Log or history view displaying a timeline of game events, including changes in life totals, damage, and counters.
+Settings Screen:
+
+Menu for customizing interface preferences, gameplay settings, and accessibility options.
+Note: These wireframes provide a basic visual representation of the app's interface and functionality. The focus is on simplicity and ease of use, catering to both new and experienced MTG players.
